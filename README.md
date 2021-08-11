@@ -57,6 +57,15 @@
     </p>
 </details>
 
+<details>
+  <summary><b>:bar_chart: &nbsp;Coding Statistics</b></summary>
+  <br/>
+  
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
+
+
 
 <br/>
 
