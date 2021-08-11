@@ -48,7 +48,7 @@
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
+  <br/><br/><br/><br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=rmneves92&hide_border=true&theme=nightowl" />
     </p>
