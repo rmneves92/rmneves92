@@ -2,7 +2,7 @@
 
 <img src = 'https://github.com/rmneves92/rmneves92/blob/main/images/avatar.png?raw=true' alt='Rafael Neves' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-morais-neves-79405714a/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rmneves) 
 <!-- [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.moraisneves@outlook.com)](mailto:rafael.moraisneves@outlook.com)  -->
 
 <hr/>
