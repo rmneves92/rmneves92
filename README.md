@@ -57,7 +57,7 @@
     </p>
 </details>
 
-<hr/>
+
 <br/>
 
 <!-- <p align="right">
