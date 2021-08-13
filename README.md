@@ -61,11 +61,11 @@
   <summary><b>:bar_chart: &nbsp;Coding Statistics</b></summary>
   <br/>
   
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  
 </details>
 
-
+<!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 <br/>
 
