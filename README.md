@@ -61,7 +61,7 @@
   <br/>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **I'm an Early 🐤** 
 
@@ -92,7 +92,7 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->
 </details>
 
