@@ -1,13 +1,22 @@
-## Hey, Rafael here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:a82da8&height=100&section=footer&text=Hey,%20Rafael%20here!&fontColor=d6ace6) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:a82da8&section=header&text=Hey,%20Rafael%20here!&fontColor=fff&animation=fadeIn&fontSize=30&height=145&fontAlignY=30"/>
+</p>
+
+<br/>
+
+<!-- ## Hey, Rafael here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 <img src = 'https://github.com/rmneves92/rmneves92/blob/main/images/avatar.png?raw=true' alt='Rafael Neves' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmneves/) 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmneves/)  -->
 <!-- [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.moraisneves@outlook.com)](mailto:rafael.moraisneves@outlook.com)  -->
 
-<hr/>
+<!-- <hr/> -->
 
-<details>
+<details open>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -52,12 +61,13 @@
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/><br/><br/><br/>
-    <p align="center">
+  <br/>
+    <p align="left">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=rmneves92&hide_border=true&theme=nightowl" />
     </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rmneves92&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmneves92&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    <p align="left">
+<!--         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rmneves92&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl&hide=stars,prs,issues,contribs" /> -->
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmneves92&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
 
@@ -66,7 +76,7 @@
   <br/>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+
 
 **I'm an Early 🐤** 
 
@@ -93,6 +103,6 @@
 
 <br/>
 
-<!-- <p align="right">
-<img src="https://komarev.com/ghpvc/?username=rmneves92&style=plastic&label=Views"><img>
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:a82da8&height=100&section=footer&text=Hello%20World!"/>
 </p> -->
