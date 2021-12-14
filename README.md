@@ -76,7 +76,7 @@
   <br/>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **I'm an Early 🐤** 
 
@@ -95,7 +95,7 @@
 ```
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
 </details>
 
