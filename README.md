@@ -71,33 +71,7 @@
     </p>
 </details>
 
-<details>
-  <summary><b>:bar_chart: &nbsp;Coding Statistics</b></summary>
-  <br/>
-  
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    102 commits    ███████░░░░░░░░░░░░░░░░░░   29.06% 
-🌆 Daytime    127 commits    █████████░░░░░░░░░░░░░░░░   36.18% 
-🌃 Evening    114 commits    ████████░░░░░░░░░░░░░░░░░   32.48% 
-🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
- Last Updated on 15/12/2021
-<!--END_SECTION:waka-->
-</details>
 
 
 
